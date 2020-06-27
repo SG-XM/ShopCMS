@@ -1,0 +1,25 @@
+@startuml
+actor ":用户" as user
+boundary ":注册界面" as p1
+boundary "注册按钮" as bt1
+boundary ":登录界面" as p2
+boundary ":登录按钮" as bt2
+database ":数据库" as db
+entity ":用户信息" as u1
+entity ":权限信息" as it
+user -> p1:显示页面
+user -> bt1:点击操作
+bt1 -> db:更新数据库
+db -> p1:[注册失败]返回注册界面
+db -> p2:[注册成功]返回登录界面
+user -> bt2:点击操作
+bt2 -> db:查询用户信息
+db -> u1:获取用户信息
+u1 ->:返回用户信息
+db -> it:获取权限信息
+it->db:返回权限信息
+db->user:[登录成功]提示信息
+db->p2:[登录失败]提示信息
+
+
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+left to right direction
+rectangle 商品 {
+  usecase "查询商品" as UC1
+  usecase "订购商品" as UC2
+}
+rectangle 销售订单 {
+  usecase "查询订单" as UC41
+  usecase "信息统计" as UC42
+}
+顾客 --> UC1
+顾客 --> UC41
+UC2 -up-> UC1:<<extend>>
+UC42 -up-> UC41:<<extend>>
+顾客 -> (修改个人信息)
+@endnuml

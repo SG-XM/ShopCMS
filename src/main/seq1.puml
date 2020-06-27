@@ -1,0 +1,20 @@
+@startuml
+actor ":店员" as user
+boundary ":新增商品按钮" as bt1
+boundary ":新增商品录入页面" as p1
+boundary ":提交按钮" as bt2
+entity ":数据构造器" as gen
+entity ":商品" as it
+entity ":商品列表" as its
+database 数据库 as db
+user -> bt1 :鼠标点击
+bt1 -> p1:显示页面
+p1 -> gen:构造数据信息
+user -> bt2:鼠标点击
+gen -> gen:构造信息
+gen -> p1:返回数据信息
+p1 -> it:创建
+p1 -> its:添加
+p1 -> db:更新数据库
+
+@enduml

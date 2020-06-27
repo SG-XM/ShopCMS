@@ -1,0 +1,21 @@
+@startuml
+actor ":店员" as user
+boundary ":订单信息界面" as p1
+boundary ":编辑按钮" as bt1
+boundary ":信息编辑页面" as p2
+boundary ":提交按钮" as bt2
+boundary ":锁定按钮" as bt3
+entity ":订单信息" as it
+database 数据库 as db
+user -> bt1:点击操作
+p1 -> db:请求信息
+bt1 -> p2:显示页面
+db -> it:返回订单信息
+it -> p2:返回订单信息
+bt2 -> p2:[已锁定]\n无操作
+bt2 -> it:[未锁定]更新数据信息
+it -> db:更新数据库
+bt3 -> it:锁定信息
+it -> db:更新数据库
+db -> p2:更新成功
+@enduml

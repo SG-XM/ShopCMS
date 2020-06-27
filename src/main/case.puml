@@ -1,0 +1,54 @@
+@startuml
+left to right direction
+rectangle 商品 {
+  usecase "查询商品" as UC1
+  usecase "更新商品" as UC3
+  usecase "删除商品" as UC2
+  usecase "新增商品" as UC4
+}
+rectangle 供应商 {
+  usecase "查询供应商" as UC11
+  usecase "新增供应商" as UC13
+  usecase "更新供应商" as UC12
+  usecase "删除供应商" as UC14
+
+
+}
+rectangle 用户 {
+  usecase "查询用户" as UC21
+  usecase "更新用户" as UC22
+  usecase "删除用户" as UC23
+}
+rectangle 进货订单 {
+  usecase "查询订单" as UC31
+  usecase "更新订单" as UC32
+  usecase "删除订单" as UC33
+  usecase "新增订单" as UC34
+}
+rectangle 销售订单 {
+  usecase "查询订单" as UC41
+  usecase "更新订单" as UC42
+  usecase "删除订单" as UC43
+  usecase "新增订单" as UC44
+}
+店员 --> UC1
+店员 --> UC4
+店员 --> UC11
+店员 --> UC13
+店员 --> UC21
+店员 -up-> UC31
+店员 -up-> UC34
+店员 -up-> UC41
+店员 -up-> UC44
+店员 -> (修改个人信息)
+UC2 -up-> UC1 : <<extend>>
+UC3 -up-> UC1 : <<extend>>
+UC12 -up-> UC11 : <<extend>>
+UC14 -up-> UC11 : <<extend>>
+UC22 -up-> UC21 : <<extend>>
+UC23 -up-> UC21 : <<extend>>
+UC32 -down-> UC31 : <<extend>>
+UC33 -down-> UC31 : <<extend>>
+UC42 -down-> UC41 : <<extend>>
+UC43 -down-> UC41 : <<extend>>
+@endnuml

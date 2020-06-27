@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feab9983-4df7-481a-b968-c844e7dcb2e8" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tju/zq/mapper/ItemCategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tju/zq/mapper/ItemCategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tju/zq/model/ItemCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tju/zq/util/MongoUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tju/zq/util/MongoUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/congruent_pentagon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/header-profile-skin-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/header-profile-skin-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/header-profile-skin-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/header-profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/otis_redding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/shattered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/patterns/triangular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tju/zq/MongoUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tju/zq/MongoUtilTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Use Case" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dtSdFR7vSDD13pVgaxHbBY3am6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/img" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jesper.mapper" />
+      <recent name="com.jesper.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mall\springboot-manage-master\src\main\resources\static\img" />
+      <recent name="C:\mall\springboot-manage-master\src\main" />
+      <recent name="C:\mall\springboot-manage-master\src\main\resources\templates\item" />
+      <recent name="C:\mall\springboot-manage-master\src\main\resources\templates\provider" />
+      <recent name="C:\mall\springboot-manage-master\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="jesper" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tju.zq.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feab9983-4df7-481a-b968-c844e7dcb2e8" name="Default" comment="" />
+      <created>1592541836586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592541836586</updated>
+      <workItem from="1592541842591" duration="5389000" />
+      <workItem from="1592568884158" duration="7571000" />
+      <workItem from="1592617810272" duration="27162000" />
+      <workItem from="1592703606392" duration="6831000" />
+      <workItem from="1592719810669" duration="13009000" />
+      <workItem from="1592797001694" duration="4214000" />
+      <workItem from="1593075056674" duration="1035000" />
+      <workItem from="1593076795938" duration="19111000" />
+      <workItem from="1593227670400" duration="1026000" />
+      <workItem from="1593242985297" duration="7301000" />
+      <workItem from="1593260199351" duration="1242000" />
+      <workItem from="1593261485818" duration="89000" />
+      <workItem from="1593261936146" duration="2933000" />
+    </task>
+    <task id="LOCAL-00001" summary="顾客的查删">
+      <created>1592621510519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592621510519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="顾客信息编辑">
+      <created>1592623679263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592623679263</updated>
+    </task>
+    <task id="LOCAL-00003" summary="生成供货商mapper">
+      <created>1592626198883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592626198883</updated>
+    </task>
+    <task id="LOCAL-00004" summary="供应商显示">
+      <created>1592628246972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592628246972</updated>
+    </task>
+    <task id="LOCAL-00005" summary="供应商删除">
+      <created>1592636155501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592636155501</updated>
+    </task>
+    <task id="LOCAL-00006" summary="供应商修改">
+      <created>1592638957676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592638957676</updated>
+    </task>
+    <task id="LOCAL-00007" summary="商品信息">
+      <created>1592654492974</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592654492974</updated>
+    </task>
+    <task id="LOCAL-00008" summary="供应商货品删改">
+      <created>1592658491879</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592658491879</updated>
+    </task>
+    <task id="LOCAL-00009" summary="用户订单">
+      <created>1592753169112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592753169112</updated>
+    </task>
+    <task id="LOCAL-00010" summary="清理 lj">
+      <created>1592754765465</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592754765465</updated>
+    </task>
+    <task id="LOCAL-00011" summary="清理">
+      <created>1592799279616</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592799279616</updated>
+    </task>
+    <task id="LOCAL-00012" summary="权限">
+      <created>1592801076750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592801076750</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1593184235757</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593184235757</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1593264115889</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593264115889</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="顾客的查删" />
+    <MESSAGE value="顾客信息编辑" />
+    <MESSAGE value="生成供货商mapper" />
+    <MESSAGE value="供应商显示" />
+    <MESSAGE value="供应商删除" />
+    <MESSAGE value="供应商修改" />
+    <MESSAGE value="商品信息" />
+    <MESSAGE value="供应商货品删改" />
+    <MESSAGE value="用户订单" />
+    <MESSAGE value="清理 lj" />
+    <MESSAGE value="清理" />
+    <MESSAGE value="权限" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593264164139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593264164139" />
+    <state x="558" y="79" key="CommitChangelistDialog2" timestamp="1593264109159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="79" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593264109158" />
+    <state width="1877" height="689" key="GridCell.Tab.0.bottom" timestamp="1593265324484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324484" />
+    <state width="1877" height="689" key="GridCell.Tab.0.center" timestamp="1593265324484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324484" />
+    <state width="1877" height="689" key="GridCell.Tab.0.left" timestamp="1593265324484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324484" />
+    <state width="1877" height="689" key="GridCell.Tab.0.right" timestamp="1593265324484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324484" />
+    <state width="1877" height="689" key="GridCell.Tab.1.bottom" timestamp="1593265324485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324485" />
+    <state width="1877" height="689" key="GridCell.Tab.1.center" timestamp="1593265324485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324485" />
+    <state width="1877" height="689" key="GridCell.Tab.1.left" timestamp="1593265324484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324484" />
+    <state width="1877" height="689" key="GridCell.Tab.1.right" timestamp="1593265324485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="689" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593265324485" />
+    <state x="662" y="252" width="596" height="594" key="find.popup" timestamp="1593264134883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="594" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593264134883" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/UserController.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/UserController.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ProviderController.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ProviderController.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ProviderController.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ItemController.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ProviderController.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ProviderController.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ItemController.java</url>
+          <line>225</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ItemController.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tju/zq/controller/ItemController.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
